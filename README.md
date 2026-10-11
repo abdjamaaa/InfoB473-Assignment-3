@@ -18,7 +18,7 @@ After combining the results with the gene information, I identified probes with 
 
 ## Results
 
-The dataset contained 48,803 probes across 18 samples, including nine Tumor and nine Normal samples. My analysis identified **44 probes with an absolute fold change greater than 5**. All 44 showed higher expression in Tumor samples, resulting in 100% Tumor and 0% Normal.
+The dataset contained 48,803 probes across 18 samples, including nine Tumor and nine Normal samples. My analysis identified **45 probes with an absolute fold change greater than 5**. All 45 showed higher expression in Tumor samples, resulting in 100% Tumor and 0% Normal.
 
 ## How to Run
 
